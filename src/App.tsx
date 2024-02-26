@@ -10,6 +10,8 @@ function App() {
         <li>Tailwind</li>
         <li>Prettier</li>
         <li>ESLint</li>
+        <li>Husky</li>
+        <li>Lint staged</li>
       </ul>
     </main>
   );
