@@ -1,4 +1,15 @@
-# React + TypeScript + React Query + React Router + Tailwind + Prettier + ESLint + Vite
+# React template with:
+
+>- Vite 
+>- TypeScript 
+>- React Query
+>- React Router
+>- Tailwind
+>- Prettier
+>- ESLint
+>- Husky
+>- Lint staged
+>- Commit lint
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
